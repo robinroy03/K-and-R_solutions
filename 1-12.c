@@ -1,4 +1,4 @@
-// program that prints its input one line per line
+// program that prints its input one word per line
 
 # include <stdio.h>
 int main() {
